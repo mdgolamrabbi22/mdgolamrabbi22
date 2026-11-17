@@ -132,8 +132,6 @@ I believe in showing the path, not just the destination. Here's where I am right
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdgolamrabbi22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" height="170" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdgolamrabbi22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=8" height="170" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=mdgolamrabbi22&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=00d2ff&currStreakLabel=00d2ff" alt="streak"/>
 
@@ -152,14 +150,6 @@ I believe in showing the path, not just the destination. Here's where I am right
 - [ ] Maintain a consistent **weekly commit habit**
 
 ---
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mdgolamrabbi22&theme=nord&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies"/>
-
-</div>
 
 ---
 
