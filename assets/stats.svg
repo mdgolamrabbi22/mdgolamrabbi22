@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="205" viewBox="0 0 420 205" role="img" aria-label="GitHub Snapshot">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d2ff"/><stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="419" height="204" rx="10" fill="#0d1117" stroke="#1e293b"/>
+  <rect x="20" y="52" width="48" height="3" rx="1.5" fill="url(#g)"/>
+  <text x="20" y="36" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700" fill="#00d2ff">GitHub Snapshot</text>
+  <text x="20" y="92" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#f8fafc">15</text>
+  <text x="20" y="110" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#94a3b8">Public Repos</text>
+  <text x="220" y="92" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#f8fafc">0</text>
+  <text x="220" y="110" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#94a3b8">Total Stars</text>
+  <text x="20" y="148" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#f8fafc">6</text>
+  <text x="20" y="166" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#94a3b8">Followers</text>
+  <text x="220" y="148" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#f8fafc">7</text>
+  <text x="220" y="166" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#94a3b8">Following</text>
+</svg>
